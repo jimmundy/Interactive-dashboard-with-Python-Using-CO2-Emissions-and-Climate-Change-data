@@ -30,4 +30,4 @@ Ultimately we shall get a deplyable interactive dashboard as a local host exactl
 
 <img src="interactive_dashboard.png" alt="Interactive dashboard"  align="center">
 
-<p>  You can check out the entire content in the notebook, "interactive_dashboard.ipynb"</p>
+<p>  You can check out the entire content in the notebook file , "interactive_dashboard.ipynb"</p>
