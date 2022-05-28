@@ -28,4 +28,6 @@ I found [Panel](https://panel.holoviz.org/index.html), a high-level app and dash
 
 Ultimately we shall get a deplyable interactive dashboard as a local host exactly as the image shown below in case you decide to use my notebook. Ofcourse exploring the dataset might give anyone a different analysis mindset. Within the actual local host at the end,  we can easily see the interactivity with the slider adjustment in the side panel or by tuggling between the  desired CO<sub>2</sub>widgets.
 
-<img src="interactive_dashboard.png" alt="Interactive dashboard" width="1980" height="1185" align="center">
+<img src="interactive_dashboard.png" alt="Interactive dashboard"  align="center">
+
+<p>  You can check out the entire content in the notebook, "interactive_dashboard.ipynb"</p>
